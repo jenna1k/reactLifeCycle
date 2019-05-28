@@ -41,7 +41,7 @@ class App extends Component {
               <div>
                 <p>if you want to change webpage title</p>
               </div>
-              <button onClick={(e) => {
+              <button className="myButton" onClick={(e) => {
                 e.preventDefault();
                 this.clickButton();
               }}>click here</button>
