@@ -1,1 +1,1 @@
-### [wcs quest for React LifeCycle](https://priceless-darwin-c6d7c4.netlify.com/) [![Netlify Status](https://api.netlify.com/api/v1/badges/01b9de62-e007-4332-85c7-b40550199c33/deploy-status)](https://app.netlify.com/sites/priceless-darwin-c6d7c4/deploys)
+### [wcs quest for React LifeCycle](https://wcs-reactlifecycle.netlify.com/) [![Netlify Status](https://api.netlify.com/api/v1/badges/01b9de62-e007-4332-85c7-b40550199c33/deploy-status)](https://app.netlify.com/sites/priceless-darwin-c6d7c4/deploys)
